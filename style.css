@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+}
+
+
+#Laal{
+    color:red;
+}
+
+#Peela{
+    color:yellow;
+}
+
+#Hara{
+    color:green
+}
+
+#Neela{
+    color:blue;
+}
+
+#Narangi{
+    color:green
+}
+
+h1{
+    color:brown;
+}
+h2{
+    color:grey;
+}
+
+
+#red{
+    color:red;
+}
+#blue{
+    color:blue;
+}
+#orange{
+    color:orange;
+}
+#green{
+    color:green;
+}
+#yellow{
+    color:yellow;
+}
+.color-title{
+    font-weight:normal;
+}
+img{
+    height:200px;
+    width:200px;
+}
